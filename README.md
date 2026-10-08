@@ -1,4 +1,4 @@
-# React Accordion
+# Accordion
 
 A simple accordion UI built with **React, JavaScript, Tailwind CSS, and Vite**.
 
