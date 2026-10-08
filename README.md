@@ -23,3 +23,6 @@ A simple accordion UI built with **React, JavaScript, Tailwind CSS, and Vite**.
 npm install
 npm run dev
 ```
+## Live Demo
+
+[View Live Demo](https://accordion-alpha-ten.vercel.app/)
